@@ -1,0 +1,332 @@
+1, "Wiley Post-Will Rogers Mem", 71:17:08:N 156:45:58:W
+2, "Deadhorse", 70:11:41:N 148:27:55:W
+3, "Ralph Wien Memorial", 66:53:05:N 162:35:55:W
+4, "Fairbanks Intl", 64:48:54:N 147:51:23:W
+5, "Nome", 64:30:44:N 165:26:43:W
+6, "St Mary's", 62:03:39:N 163:18:07:W
+7, "Aniak", 61:34:54:N 159:32:35:W
+8, "Anchorage Intl", 61:10:27:N 149:59:54:W
+9, "Tuluksak", 61:05:49:N 160:58:10:W
+10, "Akiachak", 60:54:22:N 161:25:37:W
+11, "Akiak", 60:54:10:N 161:13:50:W
+12, "Kwethluk", 60:47:25:N 161:26:37:W
+13, "Bethel",60:46:43:N 161:50:14:W
+14, "Napaskiak", 60:42:10:N 161:46:42:W
+15, "Napakiak", 60:41:25:N 161:58:43:W
+16, "Merle K (Mudhole) Smith", 60:29:30:N 145:28:39:W
+17, "Tuntutuliak", 60:20:07:N 162:40:01:W
+18, "Eek", 60:12:49:N 162:02:38:W
+19, "Kongiganak", 59:57:39:N 162:52:52:W
+20, "Kwigillingok", 59:52:35:N 163:10:07:W
+21, "Quinhagak", 59:45:18:N 161:50:43:W
+22, "Yakutat", 59:30:12:N 139:39:37:W
+23, "Dillingham", 59:02:41:N 158:30:20:W
+24, "King Salmon", 58:40:35:N 156:38:55:W
+25, "Gustavus", 58:25:31:N 135:42:27:W
+26, "Juneau Intl", 58:21:18:N 134:34:35:W
+27, "Kodiak", 57:44:59:N 152:29:38:W
+28, "St Paul Island", 57:10:02:N 170:13:14:W
+29, "Sitka", 57:02:50:N 135:21:42:W
+30, "Port Heiden", 56:57:33:N 158:38:00:W
+31, "James A Johnson Petersburg", 56:48:05:N 132:56:46:W
+32, "Wrangell", 56:29:04:N 132:22:11:W
+33, "Ketchikan Intl", 55:21:15:N 131:42:40:W
+34, "Sand Point", 55:18:49:N 160:31:17:W
+35, "Cold Bay", 55:12:19:N 162:43:28:W
+36, "Unalaska", 53:53:56:N 166:32:42:W
+37, "Eareckson As", 52:42:44:N 174:06:49:E
+38, "Adak Naf", 51:52:41:N 176:38:46:W
+39, "Bellingham Intl", 48:47:33:N 122:32:15:W
+40, "Glacier Park Intl", 48:18:38:N 114:15:22:W
+41, "Minot Intl", 48:15:28:N 101:16:41:W
+42, "William R Fairchild Intl", 48:07:13:N 123:29:59:W
+43, "Grand Forks Afb", 47:57:50:N 097:24:04:W
+44, "Grand Forks Intl", 47:56:57:N 097:10:34:W
+45, "Spokane Intl", 47:37:12:N 117:32:02:W
+46, "Great Falls Intl", 47:28:58:N 111:22:14:W
+47, "Seattle-Tacoma Intl", 47:26:56:N 122:18:34:W
+48, "Pangborn Memorial", 47:23:53:N 120:12:21:W
+49, "Grant County", 47:12:31:N 119:19:09:W
+50, "Missoula Intll", 46:54:59:N 114:05:26:W
+51, "Hector Intll", 46:55:14:N 096:48:56:W
+52, "Duluth Intl", 46:50:32:N 092:11:37:W
+53, "Bismarck Muni", 46:46:22:N 100:44:45:W
+54, "Pullman/Moscow Regional", 46:44:38.4:N 117:06:28.8:W
+55, "Helena Regional", 46:36:24:N 111:58:58:W
+56, "Yakima Air Terminal", 46:34:05:N 120:32:39:W
+57, "Marquette County", 46:32:1.98:N 87:33:45.20:W
+58, "Lewiston-Nez Perce County", 46:22:28:N 117:00:55:W
+59, "Tri-Cities", 36:28:31:N 082:24:27:W
+60, "Walla Walla Regional", 46:05:24:N 118:17:24:W
+61, "Bert Mooney", 45:57:17:N 112:29:51:W
+62, "Billings Logan Intl", 45:48:28:N 108:32:34:W
+63, "Gallatin Field", 45:46:37.2:N 111:09:07.2:W
+64, "Eastern Oregon Regional At Pen", 45:41:42:N 118:50:29:W
+65, "Portland Intl", 43:38:46:N 070:18:33:W
+66, "Mcnary Fld", 44:54:34:N 123:00:09:W
+67, "Minneapolis-St Paul Intl/Wold-", 44:52:55:N 093:13:18:W
+68, "Bangor Intl", 44:48:26:N 068:49:41:W
+69, "Central Wisconsin", 44:46:39:N 089:40:00:W
+70, "Cherry Capital", 44:44:30:N 085:34:56:W
+71, "Austin Straubel Intll", 44:29:05:N 088:07:47:W
+72, "Burlington Intl", 44:28:19:N 073:09:12:W
+73, "Outagamie County", 44:15:29:N 088:31:09:W
+74, "Roberts Field", 44:15:15:N 121:08:59:W
+75, "Mahlon Sweet Field", 44:07:23:N 123:13:07:W
+76, "Rapid City Regional", 44:02:43:N 103:03:26:W
+77, "Wittman Regional", 43:59:04:N 088:33:25:W
+78, "Rochester Intll", 43:54:30:N 92:30:00:W
+79, "La Crosse Muni", 43:52:45:N 091:15:24:W
+80, "Portland Intl Jetport", 43:38:46:N 070:18:33:W
+81, "Jackson Hole", 43:36:26:N 110:44:16:W
+82, "Joe Foss Field", 43:34:55:N 096:44:31:W
+83, "Boise Air Terminal /Gowen Fld/", 43:33:52:N 116:13:22:W
+84, "Mbs Intll", 43:31:58:N 084:04:47:W
+85, "Fanning Field", 43:30:49:N 112:04:15:W
+86, "Friedman Memorial", 43:30:14:N 114:17:44:W
+87, "North Bend Muni", 43:25:02:N 124:15:46:W
+88, "Muskegon County", 43:10:04:N 086:14:08:W
+89, "Oneida County", 45:37:51:N 089:27:59:W
+90, "Dane County Regional-Truax Fie", 43:08:23:N 089:20:15:W
+91, "Greater Rochester Intl", 43:7:8:N 077:40:21:W
+92, "Syracuse Hancock Intl", 43:06:40:N 076:06:23:W
+93, "Bishop Intll", 42:57:56:N 83:44:37:W
+94, "General Mitchell Intll", 42:56:50:N 087:53:48:W
+95, "Greater Buffalo Intl", 42:56:26:N 078:43:56:W
+96, "Manchester", 42:55:57:N 071:26:08:W
+97, "Pocatello Regional", 42:54:35:N 112:35:45:W
+98, "Natrona County Intl", 42:54:29:N 106:27:52:W
+99, "Kent County Intl", 42:52:51:N 85:31:22:W
+100, "Capital City", 42:46:43.1:N 84:35:10.3:W
+101, "Albany County", 42:44:57:N 073:48:07:W
+102, "Waterloo Muni", 42:33:25:N 092:24:01:W
+103, "Tompkins County", 42:29:29:N 076:27:31:W
+104, "Twin Falls-Sun Valley Regional", 42:28:54:N 114:29:16:W
+105, "Detroit City", 42:24:33:N 083:00:36:W
+106, "Sioux Gateway", 42:24:09:N 096:23:04:W
+107, "Dubuque Regional", 42:24:07:N 090:42:34:W
+108, "Rogue Valley Intl- M", 42:22:27:N 122:52:25:W
+109, "General Edward Lawrence Logan", 42:21:47:N 071:00:23:W
+110, "Worcester Muni", 42:16:02:N 071:52:33:W
+111, "Kalamazoo/Battle Creek Interna", 42:14:06:N 85:33:07:W
+112, "Detroit Metropolitan Wayne Cou", 42:12:45:N 083:21:12:W
+113, "Binghamton Regional/Edwin A Li", 42:12:31:N 075:58:47:W
+114, "Greater Rockford", 42:11:43:N 89:05:50:W
+115, "Elmira/Corning Regional", 42:09:36:N 076:53:30:W
+116, "Klamath Falls Intll", 42:09:22:N 121:43:59:W
+117, "Erie Intl", 42:4:59:N 80:10:55:W
+118, "Chicago O'hare Intl", 41:58:43:N 87:54:17:W
+119, "Bradley Intl", 41:56:21:N 072:41:00:W
+120, "Cedar Rapids Muni", 37:42:03:N 113:05:56:W
+121, "William B. Heilig Field", 41:52:26:N 103:35:44:W
+122, "Merrill C Meigs", 41:51:36:N 87:36:31:W
+123, "Chicago Midway", 41:47:10:N 87:45:09:W
+124, "Jack Mc Namara Field", 41:46:49:N 124:14:12:W
+125, "Theodore Francis Green State", 41:43:26:N 071:25:42:W
+126, "Michiana Rgnl Transportation C", 41:42:30:N 086:19:02:W
+127, "Toledo Express", 41:35:12.5:N 83:48:28.2:W
+128, "Des Moines Intl", 41:32:02:N 093:39:47:W
+129, "Stewart Int'l", 41:30:15:N 074:06:17:W
+130, "Quad-City", 41:26:55:N 90:30:27:W
+131, "Cleveland-Hopkins Intl", 41:24:42:N 081:50:59:W
+132, "Wilkes-Barre/Scranton Intl", 41:20:18:N 075:43:24:W
+133, "Eppley Airfield", 41:18:04.3:N 95:53:43.4:W
+134, "Tweed-New Haven", 41:15:50:N 072:53:12:W
+135, "Youngstown-Warren Regional", 41:15:39:N 080:40:45:W
+136, "Westchester County", 41:04:01:N 073:42:27:W
+137, "Fort Wayne Intll", 40:58:42:N 085:11:43:W
+138, "Arcata", 40:58:40:N 124:06:30:W
+139, "Akron-Canton Regional", 40:54.90:0:N 81:26.62:0:W
+140, "Lincoln Muni", 40:51:04:N 96:45:33:W
+141, "University Park", 40:50:57:N 77:50:55:W
+142, "Elko Muni-J.C. Harris Field", 40:49:30:N 115:47:30:W
+143, "Long Island Mac Arthur", 40:47:43:N 073:06:01:W
+144, "Salt Lake City Intl", 40:47:18:N 111:58:40:W
+145, "Burlington Regional", 44:28:19:N 073:09:12:W
+146, "La Guardia", 40:46:38.1:N 73:52:21.4:W
+147, "Newark Intl", 40:41:33:N 074:10:07:W
+148, "Greater Peoria Regional", 40:39:51:N 089:41:36:W
+149, "Lehigh Valley Intll", 40:39:08.4:N 075:26:25.7:W
+150, "John F Kennedy Intl", 40:38:23:N 073:46:44:W
+151, "Redding Muni", 40:30:32:N 122:17:36:W
+152, "Pittsburgh Intll", 40:29:45.6:N 80:14:45.6:W
+153, "Yampa Valley", 40:28:52:N 107:13:04:W
+154, "Bloomington/Normal", 40:28:38:N 088:54:57:W
+155, "Purdue University", 40:24:44:N 86:56:13:W
+156, "Mercer County", 40:16:36:N 074:48:48:W
+157, "Harrisburg Intll", 40:11:35:N 076:45:48:W
+158, "University Of Illinois-Willard", 40:02:21:N 88:16:41:W
+159, "Port Columbus Intl", 39:59:53:N 082:53:31:W
+160, "Quincy Muni Baldwin Field", 39:56:34:N 091:11:41:W
+161, "James M Cox Dayton Intl", 39:54:08:N 084:13:10:W
+162, "Philadelphia Intl", 39:52:19:N 075:14:28:W 
+163, "Capital", 39:50:39:N 089:40:41:W
+164, "Decatur", 39:50:04:N 088:51:56:W
+165, "Chico Muni", 39:47:43:N 121:51:30:W
+166, "Stapleton Intl", 39:45:39.6:N 104:53:31.2:W
+167, "Indianapolis Intl", 39:43:02:N 086:17:40:W
+168, "Eagle County Regional", 39:38:33:N 106:55:04:W
+169, "Reno/Tahoe Intll", 39:29:57:N 119:46:05:W
+170, "Atlantic City Intll", 39:27:27:N 074:34:38:W
+171, "Hulman Regional", 39:27:05:N 87:18:27:W
+172, "Kansas City Intl", 39:17:51:N 94:42:50:W
+173, "Aspen-Pitkin Co/Sardy Field", 39:13:23:N 106:52:08:W
+174, "Baltimore-Washington Intl", 39:10:31:N 076:40:06:W
+175, "Walker Field", 39:07:21:N 108:31:36:W
+176, "Cincinnati/Northern Kentucky I", 39:02:56:N 084:40:04:W
+177, "Washington Dulles Intl", 38:56:40:N 077:27:21:W
+178, "Lake Tahoe", 38:53:38:N 119:59:43:W
+179, "Washington National", 38:51:08:N 077:02:16:W
+180, "Columbia Regional", 38:49:05:N 092:13:11:W
+181, "City Of Colorado Springs Muni", 38:48:21:N 104:42:03:W
+182, "Lambert-St Louis Intl", 38:44:50:N 090:21:41:W
+183, "Sacramento Metropolitan", 38:41:44:N 121:35:27:W
+184, "Gunnison County", 38:32:02:N 106:55:59:W
+185, "Sonoma County", 38:30:32:N 122:48:46:W
+186, "Yeager", 38:22:33:N 081:35:35:W
+187, "Tri-State/Milton J.Ferguson Fi", 38:22:01:N 082:33:31:W
+188, "Pueblo Memorial", 38:17:15:N 104:29:43:W
+189, "Louisville Intl", 38:10:27:N 085:44:11:W
+190, "Charlottesville-Albemarle", 38:08:19:N 078:27:10:W
+191, "Evansville Regional", 38:02:18:N 087:31:51:W
+192, "Blue Grass", 38:02:11:N 084:36:21:W
+193, "Stockton Metropolitan", 37:53:39:N 121:14:18:W
+194, "Greenbrier Valley", 37:51:30:N 080:23:58:W
+195, "Williamson County Regional", 37:45:18:N 089:00:40:W
+196, "Forney Aaf", 37:44:30:N 092:08:27:W
+197, "Metropolitan Oakland Intl", 37:43:17:N 122:13:15:W
+198, "Wichita Mid-Continent", 37:39:0:N 97:25:59:W
+199, "Modesto City-County--Harry Sha", 37:37:33:N 120:57:16:W
+200, "Mammoth Lakes", 37:37:27:N 118:50:20:W
+201, "San Francisco Intl", 37:37:08:N 122:22:30:W
+202, "Richmond Intll", 37:30:18:N 077:19:10:W
+203, "San Jose Intll", 37:21:46:N 121:55:45:W
+204, "Roanoke Regional/Woodrum Field", 37:19:32:N 079:58:32:W
+205, "Merced Municipal/Macready Fiel", 37:17:05:N 120:30:50:W
+206, "Springfield Regional", 37:14:44:N 93:23:19:W
+207, "Cape Girardeau Regional", 37:13:31:N 089:34:15:W
+208, "Durango-La Plata County", 37:09:05:N 107:45:14:W
+209, "Joplin Regional", 37:09:06:N 094:29:54:W
+210, "Newport News/Williamsburg Inte", 37:07:55:N 76:29:35:W
+211, "Barkley Regional", 37:03:37:N 088:46:23:W
+212, "Norfolk Intl", 36:53:41:N 076:12:04:W
+213, "Fresno Air Terminal", 36:46:36:N 119:43:08:W
+214, "Monterey Peninsula", 36:35:13:N 121:50:35:W
+215, "Tri-Cities Regional Tn/Va", 38:22:01:N 082:33:31:W
+216, "Tulsa Intl", 36:11:54:N 095:53:17:W
+217, "Nashville Intll", 36:07:36:N 086:40:55:W
+218, "Piedmont Triad Intll", 36:05:52:N 79:56:14:W
+219, "Mc Carran Intl", 36:04:48:N 115:09:08:W
+220, "Drake Field", 36:00:18:N 094:10:12:W
+221, "Raleigh-Durham Intll", 35:52:40:N 078:47:15:W
+222, "Mc Ghee Tyson", 35:48:40:N 083:59:38:W
+223, "Asheville Regional", 35:26:10:N 082:32:30:W
+224, "Meadows Field", 35:26:02:N 119:03:28:W
+225, "Will Rogers World", 35:23:35:N 097:36:03:W
+226, "Fort Smith Regional", 35:20:12:N 094:22:03:W
+227, "Kinston Regional Jetport At St", 35:19:53:N 77:36:32:W
+228, "San Luis Obispo County-Mc Ches", 35:14:13:N 120:38:31:W
+229, "Amarillo Intl", 35:13:10:N 101:42:21:W
+230, "Charlotte/Douglas Intl", 35:12:50:N 080:56:35:W
+231, "Flagstaff Pulliam", 35:08:25:N 111:40:09:W
+232, "Memphis Intl", 35:02:33:N 089:58:36:W
+233, "Albuquerque Intl", 35:02:21.6:N 106:36:38.8:W
+234, "Lovell Field", 35:02:07:N 85:12:14:W
+235, "Fayetteville Regional/Grannis", 36:16:54:N 094:18:28:W
+236, "Santa Maria Pub/Capt G Allan H", 34:53:56:N 120:27:27:W
+237, "Greenville-Spartanburg", 34:53:44:N 082:13:08:W
+238, "Albert J Ellis", 34:49:45:N 077:36:44:W
+239, "Adams Field", 34:43:48:N 92:13:12:W
+240, "Huntsville Intl-Carl T Jones F", 34:38:14:N 86:46:30:W
+241, "Lawton Muni", 34:34:04:N 098:24:59:W
+242, "Santa Barbara Muni", 34:25:34:N 119:50:25:W
+243, "New Hanover Intll", 34:16:14:N 077:54:09:W
+244, "Oxnard", 34:12:03:N 119:12:26:W
+245, "Burbank-Glendale-Pasadena", 34:12:02:N 118:21:31:W 
+246, "Ontario Intl", 34:03:22:N 117:36:04:W
+247, "Sheppard Afb/Wichita Falls Mun", 33:59:20:N 098:29:31:W
+248, "Los Angeles Intl", 33:56:33:N 118:24:29:W
+249, "Columbia Metropolitan", 33:56:20:N 081:07:10:W
+250, "Palm Springs Regional", 33:49:47:N 116:30:24:W
+251, "Long Beach /Daugherty Field/", 33:49:04:N 118:09:06:W
+252, "Myrtle Beach Intl", 33:40:47:N 078:55:42:W
+253, "John Wayne Airport-Orange Coun", 33:40:32:N 117:52:06:W
+254, "Lubbock Intl", 33:39:49:N 101:49:14:W
+255, "The William B Hartsfield Atlan", 33:38:12:N 084:25:41:W
+256, "Birmingham Intl", 33:33:50:N 086:45:08:W
+257, "Texarkana Regional-Webb Field", 33:27:13:N 093:59:28:W
+258, "Phoenix Sky Harbor Intl", 33:26:03:N 112:00:42:W
+259, "Bush Field", 33:22:12:N 081:57:52:W
+260, "Charleston Afb/Intl", 32:53:55:N 080:02:26:W
+261, "Dallas/Fort Worth Intl", 32:53:49:N 097:02:17:W
+262, "Dallas Love Field", 32:50:50:N 096:51:06:W
+263, "San Diego Intl-Lindbergh Fld", 32:44:01:N 117:11:23:W
+264, "Yuma Mcas/Yuma Intl", 32:39:24:N 114:36:22:W
+265, "Columbus Metropolitan", 32:30:59:N 084:56:20:W
+266, "Monroe Regional", 32:30:39:N 92:02:16:W
+267, "Shreveport Regional", 32:26:48:N 093:49:32:W
+268, "Abilene Regional", 32:24:47.7:N 099:40:59.2:W
+269, "Gregg County", 32:23:02:N 094:42:41:W
+270, "Tyler Pounds Field", 32:21:14:N 095:24:10:W
+271, "Jackson Intll", 30:29:39:N 081:41:16:W
+272, "Dannelly Field", 32:18:02:N 086:23:38:W
+273, "Savannah Intll", 32:07:39:N 081:12:08:W
+274, "Tucson Intl", 32:06:58:N 110:56:28:W
+275, "Midland Intll", 31:56:33:N 102:12:07:W
+276, "El Paso Intl", 31:48:26:N 106:22:39:W
+277, "Waco Regional", 31:36:41:N 097:13:50:W
+278, "Alexandria Esler Regional", 31:19:39:N 92:32:55:W
+279, "Mathis Field", 31:21:18:N 100:29:47:W
+280, "Killeen Muni", 31:04:02:N 097:49:44:W
+281, "Mobile Regional", 30:41:29:N 088:14:34:W
+282, "Easterwood Field", 30:35:19:N 96:21:50:W
+283, "Baton Rouge Metropolitan Ryan", 30:31:58:N 091:09:00:W
+284, "Jacksonville Intl", 30:29:39:N 081:41:16:W
+285, "Eglin Afb", 30:29:22:N 086:32:32:W
+286, "Pensacola Regional", 30:28:24:N 087:11:12:W
+287, "Tallahassee Regional", 30:23:48:N 084:21:01:W
+288, "Robert Mueller Muni", 30:18:00:N 097:42:00:W
+289, "Panama City-Bay Co Intl", 30:21:30:N 085:47:44:W
+290, "Lafayette Regional", 30:12:19:N 91:59:15:W
+291, "Lake Charles Regional", 30:07:34:N 093:13:24:W
+292, "New Orleans Intl/Moisant Fld/", 29:59:36:N 090:15:29:W 
+293, "Houston Intercontinental", 29:59:04:N 095:20:29:W
+294, "Jefferson County", 48:03:14:N 122:48:38:W
+295, "Gainesville Regional", 29:41:24:N 082:16:18:W
+296, "William P Hobby", 29:38:44:N 95:16:44:W
+297, "San Antonio Intl", 29:31:36:N 098:28:19:W
+298, "Daytona Beach Intl", 29:11:05:N 81:03:38:W
+299, "Orlando Intl", 28:25:46:N 81:18:32:W
+300, "Melbourne Intll", 28:06:10:N 080:38:43:W
+301, "Tampa Intl", 27:58:32:N 082:32:0:W
+302, "St Petersburg/Clearwater Intl", 27:54:36:N 082:41:15:W
+303, "Corpus Christi Intl", 27:46:13:N 097:30:04:W
+304, "Laredo Intl", 27:32:38:N 99:27:42:W
+305, "Sarasota/Bradenton Intl", 27:23:44:N 082:33:16:W
+306, "Palm Beach Intl", 26:40:59:N 80:05:44:W
+307, "Southwest Florida Intl", 26:32:10:N 081:45:19:W
+308, "Rio Grande Valley Intl", 26:13:38:N 097:39:18:W
+309, "Mc Allen Miller Intl", 26:10:33:N 098:14:19:W
+310, "Fort Lauderdale/Hollywood Intl", 26:04:21:N 080:09:10:W
+311, "Miami Intl", 25:47:36:N 080:17:26:W
+312, "Lihue", 21:58:34:N 159:20:20:W
+313, "Honolulu Intl", 21:19:07:N 157:55:21:W
+314, "Molokai", 21:09:10:N 157:05:47:W
+315, "Kapalua", 20:57:47:N 156:40:23:W
+316, "Kahului", 20:53:55:N 156:25:50:W
+317, "Lanai", 20:47:08:N 156:57:05:W
+318, "Keahole-Kona Intll", 19:44:20:N 156:02:44:W
+319, "Hilo Intll", 19:43:13:N 155:02:54:W
+320, "Rafael Hernandez", 18:29:42:N 067:07:46:W
+321, "Luis Munoz Marin Intl", 18:26:21:N 066:00:07:W
+322, "Cyril E King", 18:20:14:N 064:58:24:W
+323, "Eugenio Maria De Hostos", 18:15:20:N 67:08:54:W
+324, "Mercedita", 18:00:30:N 66:33:47:W
+325, "Alexander Hamilton", 17:42:16:N 064:48:06:W
+326, "Johnston Atoll", 16:44:13:N 169:31:26:W
+327, "Saipan Intl", 15:07:08:N 145:43:46:E
+328, "Rota Intl", 14:10:28:N 145:14:33:E
+329, "Guam Intll", 13:29:02:N 144:47:50:E
+330, "Babelthuap/Koror", 07:22:02:N 134:32:39:E
+331, "Pago Pago Intl", 14:19:41:S 170:42:43:W
+332, "West Tinian", 14:59:57:N 145:37:10:E
